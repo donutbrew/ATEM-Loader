@@ -7,7 +7,8 @@ atem_ip: '10.10.1.1'
 # https://docs.google.com/presentation/d/209yHgswa8duYISFftQEe3YdGG6hHjZb0JVofPlsD6gA/edit#slide=id.g25f3c11de7c_0_3
 google_slides_id: '134RdRQwa8duYISFftQEe3YMLkiVvNZb0JVoJzinqfmA'
 # THis is the path fo the MediaUpload.exe program. If you use setup, you won't have to change this one:
-media_upload: r'./support/MediaUpload_x64_v9/MediaUpload.exe'
+# https://ianmorrish.wordpress.com/atem-command-line-utilites/
+media_upload: 'MediaUpload_x64_v9/MediaUpload.exe'
 # This is the map of filename:Atem-Slot. The filenames are set on the slides and are assigned during image conversion
 media_pool:
    Splash: 1
